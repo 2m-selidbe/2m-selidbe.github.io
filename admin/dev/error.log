@@ -1,0 +1,49 @@
+[Wed Jan 27 00:41:31.991345 2021] [mpm_event:notice] [pid 1389:tid 3082503936] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 00:41:31.991438 2021] [core:notice] [pid 1389:tid 3082503936] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 00:53:17.427084 2021] [mpm_event:notice] [pid 1389:tid 3082503936] AH00491: caught SIGTERM, shutting down
+[Wed Jan 27 08:28:33.873987 2021] [mpm_event:notice] [pid 1431:tid 3083212544] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 08:28:33.875004 2021] [core:notice] [pid 1431:tid 3083212544] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 08:41:32.532219 2021] [mpm_event:notice] [pid 1574:tid 3083245312] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 08:41:32.542120 2021] [core:notice] [pid 1574:tid 3083245312] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 08:58:39.248556 2021] [mpm_event:notice] [pid 1574:tid 3083245312] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00557: apache2: apr_sockaddr_info_get() failed for m0zz4rt02
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 27 08:58:39.295174 2021] [mpm_event:notice] [pid 1574:tid 3083245312] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 08:58:39.295269 2021] [core:notice] [pid 1574:tid 3083245312] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 09:01:08.437098 2021] [mpm_event:notice] [pid 1574:tid 3083245312] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00557: apache2: apr_sockaddr_info_get() failed for m0zz4rt02
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 27 09:01:08.481296 2021] [mpm_event:notice] [pid 1574:tid 3083245312] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 09:01:08.481376 2021] [core:notice] [pid 1574:tid 3083245312] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 09:04:29.180158 2021] [mpm_event:notice] [pid 1574:tid 3083245312] AH00491: caught SIGTERM, shutting down
+[Wed Jan 27 09:05:04.366032 2021] [mpm_event:notice] [pid 1378:tid 3083491072] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 09:05:04.367066 2021] [core:notice] [pid 1378:tid 3083491072] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 09:07:08.736391 2021] [mpm_event:notice] [pid 1378:tid 3083491072] AH00491: caught SIGTERM, shutting down
+[Wed Jan 27 09:07:10.100506 2021] [mpm_event:notice] [pid 2291:tid 3082983168] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 09:07:10.101082 2021] [core:notice] [pid 2291:tid 3082983168] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 09:07:18.250084 2021] [authz_core:error] [pid 2295:tid 3071277888] [client 192.168.0.187:50282] AH01630: client denied by server configuration: /media/NAS/GitHub/2M/www/2M/
+[Wed Jan 27 09:07:18.903621 2021] [authz_core:error] [pid 2295:tid 3062885184] [client 192.168.0.187:50282] AH01630: client denied by server configuration: /media/NAS/GitHub/2M/www/2M/
+[Wed Jan 27 09:09:15.575634 2021] [mpm_event:notice] [pid 2291:tid 3082983168] AH00491: caught SIGTERM, shutting down
+[Wed Jan 27 09:09:16.957007 2021] [mpm_event:notice] [pid 2414:tid 3083286272] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 09:09:16.957463 2021] [core:notice] [pid 2414:tid 3083286272] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 09:13:02.701957 2021] [mpm_event:notice] [pid 2414:tid 3083286272] AH00491: caught SIGTERM, shutting down
+[Wed Jan 27 09:13:04.066031 2021] [mpm_prefork:notice] [pid 9052] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 09:13:04.066484 2021] [core:notice] [pid 9052] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 09:13:07.047392 2021] [mpm_prefork:notice] [pid 9052] AH00169: caught SIGTERM, shutting down
+[Wed Jan 27 09:13:08.559745 2021] [mpm_prefork:notice] [pid 9190] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 09:13:08.559985 2021] [core:notice] [pid 9190] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 09:19:11.891208 2021] [mpm_prefork:notice] [pid 9190] AH00169: caught SIGTERM, shutting down
+[Wed Jan 27 09:19:13.357631 2021] [mpm_prefork:notice] [pid 9307] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 27 09:19:13.357872 2021] [core:notice] [pid 9307] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 27 10:13:10.421330 2021] [:error] [pid 9513] [client 192.168.0.12:49934] script '/media/NAS/GitHub/2M/www/2M/admin_login.php' not found or unable to stat, referer: http://192.168.0.25/contact.html
+[Wed Jan 27 10:22:11.166307 2021] [:error] [pid 9325] [client 192.168.0.187:51066] script '/media/NAS/GitHub/2M/www/2M/admin/lists/upiti.php' not found or unable to stat, referer: http://192.168.0.25/admin/admin_page.php
+[Wed Jan 27 10:22:18.878108 2021] [:error] [pid 9513] [client 192.168.0.187:51068] script '/media/NAS/GitHub/2M/www/2M/admin/lists/upiti.php' not found or unable to stat, referer: http://192.168.0.25/admin/admin_page.php
+[Wed Jan 27 10:27:33.966715 2021] [:error] [pid 9599] [client 192.168.0.187:51110] script '/media/NAS/GitHub/2M/www/2M/assets/php/upload.php' not found or unable to stat, referer: http://192.168.0.25/contact.html
+[Wed Jan 27 10:32:42.738023 2021] [:error] [pid 9318] [client 192.168.0.187:51155] script '/media/NAS/GitHub/2M/www/2M/admin/lists/narudbe.php' not found or unable to stat, referer: http://192.168.0.25/admin/admin_page.php
+[Wed Jan 27 10:34:28.563056 2021] [:error] [pid 9513] [client 192.168.0.187:51174] script '/media/NAS/GitHub/2M/www/2M/admin/lists/admin_page.php' not found or unable to stat, referer: http://192.168.0.25/admin/lists/upiti.php
+[Wed Jan 27 10:37:11.113878 2021] [:error] [pid 9313] [client 192.168.0.187:51210] script '/media/NAS/GitHub/2M/www/2M/admin/lists/narudbe.php' not found or unable to stat, referer: http://192.168.0.25/admin/admin_page.php
+[Wed Jan 27 10:44:25.251003 2021] [:error] [pid 9322] [client 192.168.0.187:51289] PHP Parse error:  syntax error, unexpected ';' in /media/NAS/GitHub/2M/www/2M/assets/php/upload_query.php on line 5, referer: http://192.168.0.25/contact.html
+[Wed Jan 27 10:52:17.600231 2021] [:error] [pid 9599] [client 192.168.0.187:51532] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /media/NAS/GitHub/2M/www/2M/assets/php/upload_query.php on line 5, referer: http://192.168.0.25/contact.html
+[Wed Jan 27 11:19:34.060475 2021] [:error] [pid 9844] [client 192.168.0.187:52476] PHP Warning:  fopen(../../admin/lists/txt/upiti.txt): failed to open stream: No such file or directory in /media/NAS/GitHub/2M/www/2M/assets/php/upload_query.php on line 4, referer: http://192.168.0.25/contact.html
+[Wed Jan 27 11:19:34.060643 2021] [:error] [pid 9844] [client 192.168.0.187:52476] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /media/NAS/GitHub/2M/www/2M/assets/php/upload_query.php on line 6, referer: http://192.168.0.25/contact.html
+[Wed Jan 27 11:19:34.060691 2021] [:error] [pid 9844] [client 192.168.0.187:52476] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /media/NAS/GitHub/2M/www/2M/assets/php/upload_query.php on line 7, referer: http://192.168.0.25/contact.html

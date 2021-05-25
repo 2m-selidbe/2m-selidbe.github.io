@@ -1,0 +1,53 @@
+pre {
+    white-space: pre-wrap;
+}
+p {
+    font-family: BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+.navbar.fixed-top {
+    height: 3.6rem;
+}
+#left-sidebar-nav {
+    height: 100%;
+    min-height: calc(100vh - 3.6rem);
+    background: rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 3.6rem;
+    margin-top: 3.6rem;
+}
+#content {
+    margin-top: 3.6rem;
+}
+li.nav-item {
+    padding: 0;
+}
+.nav-link {
+    padding: 9px 18px;
+}
+.log-entries {
+    font-size: 10pt;
+    width: 100% !important;
+}
+.lh-badge {
+    border-radius: 3px;
+    background-color: #0D47A1;
+    clear: both;
+    color: #FFF;
+    font-weight: bold;
+    padding: 1px 5px;
+}
+.badge {
+    font-weight: bold;
+}
+.badge-highlight {
+    background: firebrick;
+    color: #FFF;
+}
+table.datatable th {
+    height: 1px;
+    width: auto;
+    display: block;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
